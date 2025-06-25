@@ -1,1 +1,4 @@
-# hi guys i am gonna modify this a little bit all the credit goes to the actual owner of it
+Vesper BedWars System 
+This project is a modified version of Sergittos BedWars system
+All credit goes to the original author
+
